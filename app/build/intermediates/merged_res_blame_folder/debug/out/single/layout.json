@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/localuser/src/android/PearSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_files.xml",
+        "source": "/home/localuser/src/android/PearSample/app/src/main/res/layout/fragment_files.xml"
+    },
+    {
+        "merged": "/home/localuser/src/android/PearSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_file.xml",
+        "source": "/home/localuser/src/android/PearSample/app/src/main/res/layout/list_item_file.xml"
+    },
+    {
+        "merged": "/home/localuser/src/android/PearSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_default.xml",
+        "source": "/home/localuser/src/android/PearSample/app/src/main/res/layout/fragment_default.xml"
+    },
+    {
+        "merged": "/home/localuser/src/android/PearSample/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_file_chooser.xml",
+        "source": "/home/localuser/src/android/PearSample/app/src/main/res/layout/activity_file_chooser.xml"
+    }
+]

@@ -1,0 +1,28 @@
+com/pear/pearsample/databinding/FragmentFilesBinding.java
+ com.pear.pearsample.databinding.FragmentFilesBinding
+com/pear/pearsample/databinding/ListItemFileBinding.java
+ com.pear.pearsample.databinding.ListItemFileBinding
+com/pear/pearsample/databinding/FragmentDefaultBinding.java
+ com.pear.pearsample.databinding.FragmentDefaultBinding
+com/pear/pearsample/databinding/ActivityFileChooserBinding.java
+ com.pear.pearsample.databinding.ActivityFileChooserBinding
+com/pear/pearsample/BuildConfig.java
+ com.pear.pearsample.BuildConfig
+com/pear/pearsample/DataWorker.java
+ com.pear.pearsample.DataWorker
+com/pear/pearsample/LocalFilesList.java
+ com.pear.pearsample.LocalFilesList
+com/pear/pearsample/FilesFragment.java
+ com.pear.pearsample.FilesFragment
+ com.pear.pearsample.FilesFragment$1
+ com.pear.pearsample.FilesFragment$FilesAdapter
+ com.pear.pearsample.FilesFragment$FilesHolder
+com/pear/pearsample/FileChooserActivity.java
+ com.pear.pearsample.FileChooserActivity
+ com.pear.pearsample.FileChooserActivity$1
+com/pear/pearsample/FileUtils.java
+ com.pear.pearsample.FileUtils
+com/pear/pearsample/LocalFile.java
+ com.pear.pearsample.LocalFile
+com/pear/pearsample/DefaultFragment.java
+ com.pear.pearsample.DefaultFragment

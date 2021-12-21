@@ -1,0 +1,13 @@
+#Tue Dec 21 16:53:47 MSK 2021
+path.3=4/classes.dex
+path.2=2/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=/home/localuser/src/android/PearSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/4/classes.dex
+base.2=/home/localuser/src/android/PearSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.1=/home/localuser/src/android/PearSample/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.0=/home/localuser/src/android/PearSample/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

@@ -39,8 +39,6 @@ public class FileChooserActivity extends AppCompatActivity {
     private static final String LOG = "PearSample";
 
     //---------- Methods --------------------------------------------------------------------------
-
-
     /**
      * Ask permission to read external storage
      */
@@ -90,7 +88,6 @@ public class FileChooserActivity extends AppCompatActivity {
     }
 
     //---------- Overrides ------------------------------------------------------------------------
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

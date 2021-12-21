@@ -3,7 +3,6 @@ package com.pear.pearsample;
 import android.content.Context;
 import android.util.Log;
 import android.widget.Toast;
-
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
